@@ -1,4 +1,5 @@
-# USA-Dataset-2019-2022-Data-Analysis-Report ![Uploading Dashboard.png…]()
+# USA-Dataset-2019-2022-Data-Analysis-Report  ![Dashboard](https://github.com/user-attachments/assets/55d03062-59d1-4eb4-994a-ccb6b2314041)
+
 
 **This project provides an in-depth analysis of the USA sales data from 2019 to 2022, highlighting trends, insights, and recommendations for improved business performance. The analysis covers key metrics such as sales, profit margins, regional performance, customer behavior, and operational efficiency. This report is intended to support data-driven decision-making and strategic planning.**
 
